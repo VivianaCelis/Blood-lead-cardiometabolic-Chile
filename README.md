@@ -22,7 +22,7 @@ The data are not redistributed in this repository.
 2. Open [Google Colab](https://colab.research.google.com/) and select **File → Upload notebook**.
 3. Run the cells in order, starting with dependency installation and imports.
 4. When prompted, upload the `.sav` dataset or a ZIP containing a single `.sav` file.
-5. Run through the final cell to download **`ENS_Analysis_Tables.xlsx`**.
+5. Run through the final cell to download **`ENS_Analysis_Tables_final.xlsx`**.
 
 The mixture analysis performs 200 bootstrap resamples per outcome and may take several minutes. The workbook included in this repository is named `resultsENS_Analysis_Tables.xlsx`.
 
