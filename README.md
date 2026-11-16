@@ -4,7 +4,7 @@ Code and results accompanying the article **“Association between blood lead co
 
 ## Files
 
-- **`ens2016_2017_pb_cardiometabolic_analysis.ipynb`**: notebook containing data preparation, statistical analyses, and table exports.
+- **`ens2016_2017_pb_cardiometabolic_analysisVersion2`**: notebook containing data preparation, statistical analyses, and table exports.
 - **`resultsENS_Analysis_Tables.xlsx`**: reference results.
 - **`LICENSE`**: code license.
 
